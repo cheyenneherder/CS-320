@@ -6,4 +6,4 @@ How do I interpret user needs and incorporate them into a program?
 Understanding user needs involves conducting research, prototyping, iterative development, user-centric design, and usability testing.
 
 How do I approach designing software?
-In software design, I emphasize understanding requirements, adopting modular design, utilizing abstraction and encapsulation, leveraging design patterns and architectural patterns, considering trade-offs, and maintaining clear documentation.
+In software design, I emphasize understanding requirements, adopting modular design, utilizing abstraction and encapsulation, leveraging design patterns and architectural patterns, and maintaining clear documentation.
